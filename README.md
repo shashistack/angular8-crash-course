@@ -1,3 +1,8 @@
+# angular8-crash-course:
+
+Following the YouTube tutorial at: https://www.youtube.com/watch?v=_TLhUCjY9iA
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
